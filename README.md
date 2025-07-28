@@ -1,4 +1,9 @@
-## Hi there 👋
+## 어서오이소
+
+## 
+[개인 프로젝트](https://uisin.net)  
+[개발한 것들](https://uisin.net/dev)
+
 
 <!--
 **risekus/risekus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
