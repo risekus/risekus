@@ -2,7 +2,7 @@
 
 ## 
 [개인 프로젝트](https://uisin.net)  
-[개발한 것들](https://uisin.net/dev)
+[개발 서버링크](https://uisin.net/dev)
 
 
 <!--
