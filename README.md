@@ -1,5 +1,8 @@
 ## 어서오이소
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=risekus&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risekus&layout=compact&theme=merko)
+
 ## 
 [개인 프로젝트](https://uisin.net)  
 [개발 서버링크](https://uisin.net/dev)
