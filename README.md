@@ -1,7 +1,10 @@
 ## 어서오이소
+**재밌어 보이면 다 하는 개발자** `곽의신`**입니다**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=risekus&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risekus&layout=compact&theme=merko)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=risekus&show_icons=true&theme=graywhite" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risekus&layout=compact&theme=graywhite" height="160" />
+</p>
 
 ## 
 [개인 프로젝트](https://uisin.net)  
